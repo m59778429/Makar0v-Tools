@@ -66,8 +66,10 @@ principal_title = '''
 |  Y Y  \/ __ \|  | \// __ \\  \___\  \_/   \   /    |    |(  <_> |  <_> )  |__\___ \ 
 |__|_|  (____  /__|  (____  /\___  >\_____  /\_/     |____| \____/ \____/|____/____  >
       \/     \/           \/     \/       \/                                       \/
+Dev : Marak0v
+Version 1.0.2
 '''
-print(Back.BLACK + Fore.RED + principal_title)
+print(Back.BLACK + Fore.CYAN + principal_title)
 menu = {
     '1': "DDOS",
     '2': "Nmap",
