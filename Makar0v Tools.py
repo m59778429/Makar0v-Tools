@@ -67,7 +67,7 @@ principal_title = '''
 |__|_|  (____  /__|  (____  /\___  >\_____  /\_/     |____| \____/ \____/|____/____  >
       \/     \/           \/     \/       \/                                       \/
 Dev : Marak0v
-Version 1.0.2
+Version 1.0.2-Open Source
 '''
 print(Back.BLACK + Fore.CYAN + principal_title)
 menu = {
